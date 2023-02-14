@@ -1,0 +1,18 @@
+C:\Users\PRINZ\source\repos\Hydroxide Executor\Hydroxide Executor\obj\Debug\Hydroxide Executor.csproj.AssemblyReference.cache
+C:\Users\PRINZ\source\repos\Hydroxide Executor\Hydroxide Executor\obj\Debug\Hydroxide Executor.csproj.SuggestedBindingRedirects.cache
+C:\Users\PRINZ\source\repos\Hydroxide Executor\Hydroxide Executor\obj\Debug\Hydroxide_Executor.Form1.resources
+C:\Users\PRINZ\source\repos\Hydroxide Executor\Hydroxide Executor\obj\Debug\Hydroxide_Executor.Properties.Resources.resources
+C:\Users\PRINZ\source\repos\Hydroxide Executor\Hydroxide Executor\obj\Debug\Hydroxide Executor.csproj.GenerateResource.cache
+C:\Users\PRINZ\source\repos\Hydroxide Executor\Hydroxide Executor\obj\Debug\Hydroxide Executor.csproj.CoreCompileInputs.cache
+C:\Users\PRINZ\source\repos\Hydroxide Executor\Hydroxide Executor\bin\Debug\Hydroxide Executor.exe.config
+C:\Users\PRINZ\source\repos\Hydroxide Executor\Hydroxide Executor\bin\Debug\Hydroxide Executor.exe
+C:\Users\PRINZ\source\repos\Hydroxide Executor\Hydroxide Executor\bin\Debug\Hydroxide Executor.pdb
+C:\Users\PRINZ\source\repos\Hydroxide Executor\Hydroxide Executor\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\PRINZ\source\repos\Hydroxide Executor\Hydroxide Executor\bin\Debug\Siticone.UI.dll
+C:\Users\PRINZ\source\repos\Hydroxide Executor\Hydroxide Executor\obj\Debug\Hydroxide Executor.csproj.CopyComplete
+C:\Users\PRINZ\source\repos\Hydroxide Executor\Hydroxide Executor\obj\Debug\Hydroxide Executor.exe
+C:\Users\PRINZ\source\repos\Hydroxide Executor\Hydroxide Executor\obj\Debug\Hydroxide Executor.pdb
+C:\Users\PRINZ\source\repos\Hydroxide Executor\Hydroxide Executor\bin\Debug\FastColoredTextBox.dll
+C:\Users\PRINZ\source\repos\Hydroxide Executor\Hydroxide Executor\bin\Debug\KrnlAPI.dll
+C:\Users\PRINZ\source\repos\Hydroxide Executor\Hydroxide Executor\bin\Debug\Oxygen API.dll
+C:\Users\PRINZ\source\repos\Hydroxide Executor\Hydroxide Executor\obj\Debug\Hydroxide_Executor.ScriptHub.resources

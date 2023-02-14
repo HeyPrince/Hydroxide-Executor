@@ -1,0 +1,1 @@
+{"SkinnyGod":false,"FirstTime":true,"Configs":[],"Loadout":"empty","HideTips":false,"SoundBoard":{"Among Us":["5799014146","Sus"]},"HideUI":false,"GodV3":false,"ExperiencedUpdate1":true,"ModChecks":true,"HideAlerts":false}
